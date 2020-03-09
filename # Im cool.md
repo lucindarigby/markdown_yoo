@@ -17,5 +17,7 @@
 
 
 ### Competitor sites for info
-*[People Tree](https://www.peopletree.co.uk/)
-*[Nobody's child](https://www.nobodyschild.com/)
+* [People Tree](https://www.peopletree.co.uk/)
+* [Nobody's child](https://www.nobodyschild.com/)
+
+:octocat::octocat::octocat:
