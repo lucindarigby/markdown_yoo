@@ -1,4 +1,4 @@
-# Breif.com
+# Brief.com
 ## Ethical Clothing Website
 1. Josh
 2. Josh
