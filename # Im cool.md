@@ -16,6 +16,6 @@
 8. Contact Us Page
 
 
-### competitor sites for info
-[People Tree](https://www.peopletree.co.uk/)
-[nobody's child](https://www.nobodyschild.com/)
+### Competitor sites for info
+*[People Tree](https://www.peopletree.co.uk/)
+*[Nobody's child](https://www.nobodyschild.com/)
