@@ -6,14 +6,14 @@
 
 ## Required Features
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. Text/Copy
+2. Images
+3. Location/Map
+4. Form
+5. Embedded Media
+6. Shopping Basket
+7. 3 Animated Elements
+8. Contact Us Page
 
 
 
