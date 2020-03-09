@@ -1,6 +1,4 @@
 # Brief.com
 ## Ethical Clothing Website
-1. Josh
-2. Josh
-3. Josh
-4. Lulu
+
+###### You are required to make a website for a new ethical clothing brand in Bristol.
